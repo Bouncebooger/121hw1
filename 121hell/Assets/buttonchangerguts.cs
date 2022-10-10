@@ -43,12 +43,13 @@ private VisualElement frame;
     private void EnableCamera(int n)
     {
         // disable each of the cameras
-       // Debug.Log("heheha" );
+        
         Cameras.ForEach(cam => cam.enabled = false);
         
         // Cameras.ForEach(cam => cam.depth = 0);
         // enable the selected camera
         Cameras[n].enabled = true;
+       // Debug.Log("heheha" + Cameras[n]);
         // Cameras[n].depth = 1;
     }
 
