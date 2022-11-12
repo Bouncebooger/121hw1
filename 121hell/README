@@ -6,3 +6,9 @@ Tree_01, Grass_01,Rock_01,Mushroom_01,Mushroom_02 are all from the SimpleNatureP
 Schlurper, Shlurpplant,strangeplant,girrahedron,drone,and frong are all made by me along with the terrain.
 Cube is a object primitive.
 
+Hw2
+I made a point, spotlight, directional, lights. I also made a emissive material particle system (I think, its a bit of a mess)
+I made a day night cycle as well.
+I would like some comments on why my laptop, ryzen 9 5000 series would chug when having to do baked lighting with an area light.
+I assume it is the size of the map, or some very unoptimized models getting imported. 
+please let me know :) 
